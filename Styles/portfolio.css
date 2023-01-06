@@ -99,6 +99,9 @@ main{
 }
 .section-title{
     margin-bottom: 30px;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 30px;
 }
 .section-description{
     color: #757575;
@@ -120,4 +123,54 @@ main{
     font-weight: 700px;
     font-size: 15px;
     color: #474747;
+}
+/* what i do */
+.what-i-do{
+
+}
+.js{
+    width: 44px;
+    height: 44px;
+    left: 260px;
+    top: 1895px;
+}
+
+.react{
+    height: 35.730587005615234px;
+    width: 49.925628662109375px;
+    left: 548px;
+    top: 1895px;
+    border-radius: 0px;
+
+
+}
+.node-js{
+    width: 40px;
+    height: 44px;
+    left: 842px;
+    top: 1895px;
+}
+.mongo-db{
+    width: 44px;
+    height: 44px;
+    left: 1136px;
+    top: 1897px;
+}
+.skills-container{
+    display: flex;
+}
+.skill{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+.skills-title{
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.skill-description{
+    color: #757575;
 }
